@@ -1,0 +1,13 @@
+Software versions
+
+Reference versions checked on 2026-10-21.
+
+These are suggested versions, not necessarily the versions
+
+used to generate the current results.
+
+OrthoFinder: 3.1.5
+MAFFT: 7.526
+trimAl: 1.5.1
+AMAS: 1.0
+IQ-TREE: 3.1.4
